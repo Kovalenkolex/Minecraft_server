@@ -1,6 +1,6 @@
 # Minecraft_server
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png" width="36" height="36" alt="Minecraft" />
+<img src="https://iconarchive.com/download/i73039/papirus-team/papirus-apps/minecraft-icon.png" width="36" height="36" alt="Minecraft" />
 </p>
 
 Ansible playbook that:
