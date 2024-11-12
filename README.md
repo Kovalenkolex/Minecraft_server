@@ -1,10 +1,7 @@
 # Minecraft_server
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" width="36" height="36" alt="Ansible" />
   <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/minecraft.svg" width="36" height="36" alt="Minecraft" />
-
-
-
 </p>
 
 Ansible playbook that:
