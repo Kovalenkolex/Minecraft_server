@@ -1,6 +1,6 @@
 # Minecraft_server
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Minecraft_Logo_2016.svg" width="36" height="36" alt="Minecraft" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Minecraft_Logo_2016.svg" width="36" height="36" alt="Minecraft" />
 
 </p>
 
